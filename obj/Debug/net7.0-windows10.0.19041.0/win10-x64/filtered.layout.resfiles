@@ -46,6 +46,13 @@ appiconWideTile.scale-125.png
 appiconWideTile.scale-150.png
 appiconWideTile.scale-200.png
 appiconWideTile.scale-400.png
+d10.scale-100.png
+d12.scale-100.png
+d20.scale-100.png
+d4.scale-100.png
+d6.scale-100.png
+d8.scale-100.png
+dice_4.scale-100.png
 dotnet_bot.scale-100.png
 dotnet_bot.scale-125.png
 dotnet_bot.scale-150.png
@@ -56,4 +63,6 @@ splashSplashScreen.scale-125.png
 splashSplashScreen.scale-150.png
 splashSplashScreen.scale-200.png
 splashSplashScreen.scale-400.png
+Resources\Images\d4.png
+Resources\Images\d6.png
 AboutAssets.txt

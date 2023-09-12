@@ -1,30 +1,42 @@
-﻿namespace DiceRoller;
+﻿
+
+namespace DiceRoller;
 
 public partial class MainPage : ContentPage
 {
+    int numSides = 6;
+
 	public MainPage()
 	{
 		InitializeComponent();
+        LadosPicker.SelectedIndex = 0;
 	}
+
+    public class Dice
+    {
+        public Dice() { }
+        public Dice(int numSides)
+        {
+            this.numSides = numSides;
+        }
+
+        private int numSides;
+
+        public int RolarDado()
+        {
+            int random = new Random().Next(1, numSides + 1);
+            return random;
+    }
+    }
+ 
 
     private void OnRolarDadoClicked(object sender, EventArgs e)
     {
-        if (LadosPicker.SelectedIndex >= 0)
-        {
-            int numeroDeLados = (int)LadosPicker.ItemsSource[LadosPicker.SelectedIndex];
-            int resultado = RolarDado(numeroDeLados);
-            ResultadoLabel.Text = $"{resultado}";
-        }
-        else
-        {
-            ResultadoLabel.Text = "Escolha o número de lados do dado!";
-        }
+            numSides = Convert.ToInt32(LadosPicker.SelectedItem.ToString());
+            Dice dice = new Dice(numSides);
+            ResultadoLabel.Text = dice.RolarDado().ToString();
     }
 
-    private int RolarDado(int lados)
-    {
-        Random random = new Random();
-        return random.Next(1, lados + 1);
-    }
+
 }
 

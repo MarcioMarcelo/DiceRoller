@@ -7,36 +7,52 @@
 
         
         <VerticalStackLayout>
-            <Grid RowSpacing="20" >
-                <Grid.RowDefinitions>
-                    <RowDefinition Height="Auto"/>
-                    <RowDefinition Height="Auto"/>
-                    <RowDefinition Height="Auto"/>
-                    <RowDefinition Height="Auto"/>
-                </Grid.RowDefinitions>
+           
+                
+                <Label 
+                    Text="ROLADOR DE DADOS" 
+                    FontSize="Title" 
+                    HorizontalOptions="Center"/>
 
-                <Grid.ColumnDefinitions>
-                    <ColumnDefinition Width="*" />
-                    <ColumnDefinition Width="*" />
-                    <ColumnDefinition Width="*" />
-                </Grid.ColumnDefinitions>
-                <Label Text="ROLADOR DE DADOS" Grid.Column="1"  FontSize="Title" HorizontalOptions="Center"/>
-                <Label x:Name="ResultadoLabel" Text="0" Grid.Row="1" Grid.Column="1" FontSize="50" HorizontalOptions="Center"/>
+                <Image 
+                    x:Name="dadoImagem"
+                    Source="d6.png"
+                    SemanticProperties.Description="A dice with the number 1 facing up"
+                    HeightRequest="200"
+                    />
 
-                <Picker Title="Rolar dados" x:Name="LadosPicker" Grid.Row="2" Grid.Column="1" HorizontalOptions="Center">
+                <Label 
+                    x:Name="ResultadoLabel" 
+                    Text="0"  
+                    FontSize="50" 
+                    HorizontalOptions="Center"/>
+
+                <Picker 
+                    Title="Rolar dados" 
+                    x:Name="LadosPicker" 
+                    
+                    
+                    HorizontalOptions="Center">
+                    
                 <Picker.ItemsSource>
                         <x:Array Type="{x:Type x:Int32}">
                             <x:Int32>4</x:Int32>
-                        <x:Int32>6</x:Int32>
-                        <x:Int32>10</x:Int32>
-                        <x:Int32>20</x:Int32>
-                        <x:Int32>100</x:Int32>
+                            <x:Int32>6</x:Int32>
+                            <x:Int32>8</x:Int32>
+                            <x:Int32>10</x:Int32>
+                            <x:Int32>12</x:Int32>
+                            <x:Int32>20</x:Int32>
                     </x:Array>
                 </Picker.ItemsSource>
             </Picker>
 
-                <Button Text="ROLAR O DADO" Clicked="OnRolarDadoClicked" Grid.Row="3" Grid.Column="1" HorizontalOptions="Center"/>
-            </Grid>
+                <Button 
+                    Text="ROLAR O DADO" 
+                    Clicked="OnRolarDadoClicked" 
+              
+                    HorizontalOptions="Center"/>
+                
+
         </VerticalStackLayout>
         
     </ScrollView>
