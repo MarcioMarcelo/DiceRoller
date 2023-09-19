@@ -16,7 +16,7 @@
 
                 <Image 
                     x:Name="dadoImagem"
-                    Source="d6.png"
+                    Source="dadinho.jpg"
                     SemanticProperties.Description="A dice with the number 1 facing up"
                     HeightRequest="200"
                     />
@@ -30,7 +30,7 @@
                 <Picker 
                     Title="Rolar dados" 
                     x:Name="LadosPicker" 
-                    
+                    SelectedIndexChanged="OnChangedOption"
                     
                     HorizontalOptions="Center">
                     

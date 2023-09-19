@@ -880,6 +880,9 @@
     <AppxPackagedFile Include="D:\2DS\MARCELOMARCIO_2DS\PAM\DiceRoller\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\d8.scale-100.png">
       <PackagePath>d8.scale-100.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\2DS\MARCELOMARCIO_2DS\PAM\DiceRoller\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dadinho.scale-100.jpg">
+      <PackagePath>dadinho.scale-100.jpg</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\MARCELOMARCIO_2DS\PAM\DiceRoller\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dice_4.scale-100.png">
       <PackagePath>dice_4.scale-100.png</PackagePath>
     </AppxPackagedFile>

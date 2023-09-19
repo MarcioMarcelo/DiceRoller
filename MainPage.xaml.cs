@@ -1,4 +1,4 @@
-﻿
+﻿using System.Diagnostics.CodeAnalysis;
 
 namespace DiceRoller;
 
@@ -26,7 +26,7 @@ public partial class MainPage : ContentPage
         {
             int random = new Random().Next(1, numSides + 1);
             return random;
-    }
+        }
     }
  
 
@@ -37,6 +37,11 @@ public partial class MainPage : ContentPage
             ResultadoLabel.Text = dice.RolarDado().ToString();
     }
 
+    public void OnChangedOption(object sender, EventArgs e)
+    {
+        Image image = new Image { Source="dadinho.jpg"};
+        dadoImagem.Source = image.Source;
+    }
 
 }
 
