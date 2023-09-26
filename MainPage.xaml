@@ -16,7 +16,7 @@
 
                 <Image 
                     x:Name="dadoImagem"
-                    Source="dadinho.jpg"
+                    Source="d4.png"
                     SemanticProperties.Description="A dice with the number 1 facing up"
                     HeightRequest="200"
                     />

@@ -6,11 +6,11 @@ public partial class MainPage : ContentPage
 {
     int numSides = 6;
 
-	public MainPage()
-	{
-		InitializeComponent();
+    public MainPage()
+    {
+        InitializeComponent();
         LadosPicker.SelectedIndex = 0;
-	}
+    }
 
     public class Dice
     {
@@ -28,19 +28,22 @@ public partial class MainPage : ContentPage
             return random;
         }
     }
- 
+
 
     private void OnRolarDadoClicked(object sender, EventArgs e)
     {
-            numSides = Convert.ToInt32(LadosPicker.SelectedItem.ToString());
-            Dice dice = new Dice(numSides);
-            ResultadoLabel.Text = dice.RolarDado().ToString();
+        numSides = Convert.ToInt32(LadosPicker.SelectedItem.ToString());
+        Dice dice = new Dice(numSides);
+        ResultadoLabel.Text = dice.RolarDado().ToString();
     }
 
     public void OnChangedOption(object sender, EventArgs e)
     {
-        Image image = new Image { Source="dadinho.jpg"};
+        int diceSize = Int32.Parse(LadosPicker.SelectedItem.ToString());
+        Image image = new Image { Source = $"d{diceSize}.png" };
         dadoImagem.Source = image.Source;
+
+
     }
 
 }

@@ -30,13 +30,13 @@
     <AppXManifest Include="D:\2DS\MARCELOMARCIO_2DS\PAM\DiceRoller\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-09-19T01:36:39.146</Modified>
+      <Modified>2023-09-26T01:05:56.160</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\2DS\MARCELOMARCIO_2DS\PAM\DiceRoller\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-09-19T01:36:38.856</Modified>
+      <Modified>2023-09-26T01:05:55.863</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\MARCELOMARCIO_2DS\PAM\DiceRoller\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\DiceRoller.runtimeconfig.json">
       <PackagePath>DiceRoller.runtimeconfig.json</PackagePath>
@@ -44,11 +44,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\MARCELOMARCIO_2DS\PAM\DiceRoller\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\DiceRoller.dll">
       <PackagePath>DiceRoller.dll</PackagePath>
-      <Modified>2023-09-19T01:36:38.123</Modified>
+      <Modified>2023-09-26T01:05:55.057</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\MARCELOMARCIO_2DS\PAM\DiceRoller\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>DiceRoller.exe</PackagePath>
-      <Modified>2023-09-19T01:36:38.130</Modified>
+      <Modified>2023-09-26T01:05:55.063</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\etechas\.nuget\packages\microsoft.netcore.app.runtime.win-x64\7.0.1\runtimes\win-x64\lib\net7.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -920,7 +920,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\MARCELOMARCIO_2DS\PAM\DiceRoller\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\DiceRoller.deps.json">
       <PackagePath>DiceRoller.deps.json</PackagePath>
-      <Modified>2023-09-19T01:36:39.027</Modified>
+      <Modified>2023-09-26T01:05:56.051</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Ref.win\7.0.52\ref\net7.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
@@ -968,199 +968,199 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\MARCELOMARCIO_2DS\PAM\DiceRoller\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2023-09-19T01:35:39.913</Modified>
+      <Modified>2023-09-26T00:32:52.469</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\MARCELOMARCIO_2DS\PAM\DiceRoller\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2023-09-19T01:35:40.113</Modified>
+      <Modified>2023-09-26T00:32:52.669</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\MARCELOMARCIO_2DS\PAM\DiceRoller\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2023-09-19T01:35:40.123</Modified>
+      <Modified>2023-09-26T00:32:52.679</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\MARCELOMARCIO_2DS\PAM\DiceRoller\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2023-09-19T01:35:40.133</Modified>
+      <Modified>2023-09-26T00:32:52.688</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\MARCELOMARCIO_2DS\PAM\DiceRoller\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2023-09-19T01:35:40.149</Modified>
+      <Modified>2023-09-26T00:32:52.704</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\MARCELOMARCIO_2DS\PAM\DiceRoller\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2023-09-19T01:35:40.207</Modified>
+      <Modified>2023-09-26T00:32:52.763</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\MARCELOMARCIO_2DS\PAM\DiceRoller\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2023-09-19T01:35:39.966</Modified>
+      <Modified>2023-09-26T00:32:52.521</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\MARCELOMARCIO_2DS\PAM\DiceRoller\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2023-09-19T01:35:39.968</Modified>
+      <Modified>2023-09-26T00:32:52.524</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\MARCELOMARCIO_2DS\PAM\DiceRoller\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2023-09-19T01:35:39.979</Modified>
+      <Modified>2023-09-26T00:32:52.534</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\MARCELOMARCIO_2DS\PAM\DiceRoller\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2023-09-19T01:35:39.970</Modified>
+      <Modified>2023-09-26T00:32:52.526</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\MARCELOMARCIO_2DS\PAM\DiceRoller\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2023-09-19T01:35:39.973</Modified>
+      <Modified>2023-09-26T00:32:52.528</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\MARCELOMARCIO_2DS\PAM\DiceRoller\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2023-09-19T01:35:39.951</Modified>
+      <Modified>2023-09-26T00:32:52.506</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\MARCELOMARCIO_2DS\PAM\DiceRoller\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2023-09-19T01:35:39.953</Modified>
+      <Modified>2023-09-26T00:32:52.509</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\MARCELOMARCIO_2DS\PAM\DiceRoller\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2023-09-19T01:35:39.963</Modified>
+      <Modified>2023-09-26T00:32:52.519</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\MARCELOMARCIO_2DS\PAM\DiceRoller\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2023-09-19T01:35:39.955</Modified>
+      <Modified>2023-09-26T00:32:52.511</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\MARCELOMARCIO_2DS\PAM\DiceRoller\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2023-09-19T01:35:39.958</Modified>
+      <Modified>2023-09-26T00:32:52.513</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\MARCELOMARCIO_2DS\PAM\DiceRoller\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2023-09-19T01:35:39.921</Modified>
+      <Modified>2023-09-26T00:32:52.477</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\MARCELOMARCIO_2DS\PAM\DiceRoller\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2023-09-19T01:35:39.923</Modified>
+      <Modified>2023-09-26T00:32:52.480</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\MARCELOMARCIO_2DS\PAM\DiceRoller\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2023-09-19T01:35:39.926</Modified>
+      <Modified>2023-09-26T00:32:52.482</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\MARCELOMARCIO_2DS\PAM\DiceRoller\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2023-09-19T01:35:39.929</Modified>
+      <Modified>2023-09-26T00:32:52.485</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\MARCELOMARCIO_2DS\PAM\DiceRoller\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2023-09-19T01:35:39.933</Modified>
+      <Modified>2023-09-26T00:32:52.489</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\MARCELOMARCIO_2DS\PAM\DiceRoller\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2023-09-19T01:35:39.935</Modified>
+      <Modified>2023-09-26T00:32:52.491</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\MARCELOMARCIO_2DS\PAM\DiceRoller\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2023-09-19T01:35:39.936</Modified>
+      <Modified>2023-09-26T00:32:52.494</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\MARCELOMARCIO_2DS\PAM\DiceRoller\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2023-09-19T01:35:39.948</Modified>
+      <Modified>2023-09-26T00:32:52.504</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\MARCELOMARCIO_2DS\PAM\DiceRoller\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2023-09-19T01:35:39.940</Modified>
+      <Modified>2023-09-26T00:32:52.496</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\MARCELOMARCIO_2DS\PAM\DiceRoller\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2023-09-19T01:35:39.943</Modified>
+      <Modified>2023-09-26T00:32:52.499</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\MARCELOMARCIO_2DS\PAM\DiceRoller\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2023-09-19T01:35:40.016</Modified>
+      <Modified>2023-09-26T00:32:52.571</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\MARCELOMARCIO_2DS\PAM\DiceRoller\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2023-09-19T01:35:40.021</Modified>
+      <Modified>2023-09-26T00:32:52.575</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\MARCELOMARCIO_2DS\PAM\DiceRoller\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2023-09-19T01:35:40.026</Modified>
+      <Modified>2023-09-26T00:32:52.580</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\MARCELOMARCIO_2DS\PAM\DiceRoller\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2023-09-19T01:35:40.033</Modified>
+      <Modified>2023-09-26T00:32:52.587</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\MARCELOMARCIO_2DS\PAM\DiceRoller\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2023-09-19T01:35:40.048</Modified>
+      <Modified>2023-09-26T00:32:52.601</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\MARCELOMARCIO_2DS\PAM\DiceRoller\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2023-09-19T01:35:39.996</Modified>
+      <Modified>2023-09-26T00:32:52.552</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\MARCELOMARCIO_2DS\PAM\DiceRoller\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2023-09-19T01:35:39.999</Modified>
+      <Modified>2023-09-26T00:32:52.554</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\MARCELOMARCIO_2DS\PAM\DiceRoller\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2023-09-19T01:35:40.002</Modified>
+      <Modified>2023-09-26T00:32:52.557</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\MARCELOMARCIO_2DS\PAM\DiceRoller\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2023-09-19T01:35:40.006</Modified>
+      <Modified>2023-09-26T00:32:52.561</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\MARCELOMARCIO_2DS\PAM\DiceRoller\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2023-09-19T01:35:40.012</Modified>
+      <Modified>2023-09-26T00:32:52.567</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\MARCELOMARCIO_2DS\PAM\DiceRoller\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2023-09-19T01:35:39.981</Modified>
+      <Modified>2023-09-26T00:32:52.537</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\MARCELOMARCIO_2DS\PAM\DiceRoller\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2023-09-19T01:35:39.983</Modified>
+      <Modified>2023-09-26T00:32:52.539</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\MARCELOMARCIO_2DS\PAM\DiceRoller\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2023-09-19T01:35:39.986</Modified>
+      <Modified>2023-09-26T00:32:52.542</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\MARCELOMARCIO_2DS\PAM\DiceRoller\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2023-09-19T01:35:39.989</Modified>
+      <Modified>2023-09-26T00:32:52.545</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\MARCELOMARCIO_2DS\PAM\DiceRoller\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2023-09-19T01:35:39.994</Modified>
+      <Modified>2023-09-26T00:32:52.549</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\MARCELOMARCIO_2DS\PAM\DiceRoller\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2023-09-19T01:35:40.053</Modified>
+      <Modified>2023-09-26T00:32:52.606</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\MARCELOMARCIO_2DS\PAM\DiceRoller\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2023-09-19T01:35:40.059</Modified>
+      <Modified>2023-09-26T00:32:52.612</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\MARCELOMARCIO_2DS\PAM\DiceRoller\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2023-09-19T01:35:40.066</Modified>
+      <Modified>2023-09-26T00:32:52.619</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\MARCELOMARCIO_2DS\PAM\DiceRoller\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2023-09-19T01:35:40.077</Modified>
+      <Modified>2023-09-26T00:32:52.629</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\MARCELOMARCIO_2DS\PAM\DiceRoller\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2023-09-19T01:35:40.106</Modified>
+      <Modified>2023-09-26T00:32:52.661</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\MARCELOMARCIO_2DS\PAM\DiceRoller\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\d10.scale-100.png">
       <PackagePath>d10.scale-100.png</PackagePath>
-      <Modified>2023-09-12T00:57:32.000</Modified>
+      <Modified>2023-09-26T00:31:09.563</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\MARCELOMARCIO_2DS\PAM\DiceRoller\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\d12.scale-100.png">
       <PackagePath>d12.scale-100.png</PackagePath>
-      <Modified>2023-09-12T00:57:32.000</Modified>
+      <Modified>2023-09-26T00:31:09.547</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\MARCELOMARCIO_2DS\PAM\DiceRoller\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\d20.scale-100.png">
       <PackagePath>d20.scale-100.png</PackagePath>
-      <Modified>2023-09-12T00:57:32.000</Modified>
+      <Modified>2023-09-26T00:31:09.532</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\MARCELOMARCIO_2DS\PAM\DiceRoller\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\d4.scale-100.png">
       <PackagePath>d4.scale-100.png</PackagePath>
@@ -1172,7 +1172,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\MARCELOMARCIO_2DS\PAM\DiceRoller\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\d8.scale-100.png">
       <PackagePath>d8.scale-100.png</PackagePath>
-      <Modified>2023-09-12T00:57:32.000</Modified>
+      <Modified>2023-09-26T00:31:09.479</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\MARCELOMARCIO_2DS\PAM\DiceRoller\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dadinho.scale-100.jpg">
       <PackagePath>dadinho.scale-100.jpg</PackagePath>
@@ -1184,31 +1184,31 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\MARCELOMARCIO_2DS\PAM\DiceRoller\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2023-09-19T01:35:39.901</Modified>
+      <Modified>2023-09-26T00:32:52.454</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\MARCELOMARCIO_2DS\PAM\DiceRoller\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2023-09-19T01:35:39.909</Modified>
+      <Modified>2023-09-26T00:32:52.462</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\MARCELOMARCIO_2DS\PAM\DiceRoller\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2023-09-19T01:35:39.920</Modified>
+      <Modified>2023-09-26T00:32:52.472</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\MARCELOMARCIO_2DS\PAM\DiceRoller\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2023-09-19T01:35:39.936</Modified>
+      <Modified>2023-09-26T00:32:52.488</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\MARCELOMARCIO_2DS\PAM\DiceRoller\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2023-09-19T01:35:39.976</Modified>
+      <Modified>2023-09-26T00:32:52.527</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\MARCELOMARCIO_2DS\PAM\DiceRoller\Resources\Images\d4.png">
       <PackagePath>Resources\Images\d4.png</PackagePath>
-      <Modified>2023-09-12T00:57:32.000</Modified>
+      <Modified>2023-09-26T00:31:09.500</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\MARCELOMARCIO_2DS\PAM\DiceRoller\Resources\Images\d6.png">
       <PackagePath>Resources\Images\d6.png</PackagePath>
-      <Modified>2023-09-12T00:57:32.000</Modified>
+      <Modified>2023-09-26T00:31:09.485</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
